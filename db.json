@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "image":"/images/blog-1.avif",
+      "author": "John Doe",
+      "publish_date": "2023-07-27",
+      "heading": "Exploring the Beauty of Nature",
+      "short_paragraph": "In this blog, we embark on a breathtaking journey through lush forests, serene lakes, and majestic mountains. Discover the wonders of nature and its profound impact on our well-being.",
+      "category": "Travel"
+    },
+    {
+      "id": 2,
+      "image":"/images/blog-2.avif",
+      "author": "Jane Smith",
+      "publish_date": "2023-07-28",
+      "heading": "The Art of Mindful Living",
+      "short_paragraph": "Explore the art of mindfulness and its transformative effects on our daily lives. Learn simple yet powerful practices that promote inner peace and present-moment awareness.",
+      "category": "Lifestyle"
+    },
+    {
+      "id": 3,
+      "image":"/images/blog-3.avif",
+      "author": "David Johnson",
+      "publish_date": "2023-07-29",
+      "heading": "Mastering the Basics of Photography",
+      "short_paragraph": "Capture stunning moments with your camera! This blog delves into the fundamentals of photography, offering tips and tricks for aspiring photographers to elevate their skills.",
+      "category": "Art"
+    },
+    {
+      "id": 4,
+      "image":"/images/blog-4.avif",
+      "author": "Emily Wilson",
+      "publish_date": "2023-07-30",
+      "heading": "The Science of Healthy Eating",
+      "short_paragraph": "Discover the science-backed principles of a balanced diet and how it contributes to overall health. Unravel the mysteries of nutrition and make informed choices for a better lifestyle.",
+      "category": "Health"
+    },
+    {
+      "id": 5,
+      "image":"/images/blog-5.avif",
+      "author": "Michael Brown",
+      "publish_date": "2023-07-31",
+      "heading": "A Beginner's Guide to Yoga",
+      "short_paragraph": "Embark on a yoga journey! This blog introduces the ancient practice of yoga and its physical, mental, and spiritual benefits. Learn basic poses and find your inner Zen.",
+      "category": "Fitness"
+    },
+    {
+      "id": 6,
+      "image":"/images/blog-6.avif",
+      "author": "Samantha Lee",
+      "publish_date": "2023-08-01",
+      "heading": "Embracing Change: A Personal Story",
+      "short_paragraph": "Follow one woman's inspiring journey of self-discovery and growth. Learn how embracing change and stepping outside your comfort zone can lead to extraordinary transformations.",
+      "category": "Personal Development"
+    },
+    {
+      "id": 7,
+      "image":"/images/blog-7.avif",
+      "author": "Robert Miller",
+      "publish_date": "2023-08-02",
+      "heading": "The Marvels of Space Exploration",
+      "short_paragraph": "Embark on a cosmic adventure as we delve into the fascinating world of space exploration. Uncover the wonders of the universe and the pioneering spirit of space missions.",
+      "category": "Science"
+    },
+    {
+      "id": 8,
+      "image":"/images/blog-8.avif",
+      "author": "Jennifer Adams",
+      "publish_date": "2023-08-03",
+      "heading": "A Taste of World Cuisines",
+      "short_paragraph": "Embark on a culinary journey across the globe! This blog introduces you to the diverse and mouthwatering flavors of world cuisines, from street food to gourmet delights.",
+      "category": "Food"
+    },
+    {
+      "id": 9,
+      "image":"/images/blog-9.avif",
+      "author": "Daniel Roberts",
+      "publish_date": "2023-08-04",
+      "heading": "The Power of Positive Thinking",
+      "short_paragraph": "Unlock the potential of positive thinking and its impact on mental well-being. Learn strategies to cultivate a positive mindset and overcome life's challenges with optimism.",
+      "category": "Self-Help"
+    },
+    {
+      "id": 10,
+      "image":"/images/blog-10.avif",
+      "author": "Amy Turner",
+      "publish_date": "2023-08-05",
+      "heading": "Discovering Hidden Gems: Offbeat Travel",
+      "short_paragraph": "Venture off the beaten path and explore lesser-known destinations! This blog takes you on a unique travel experience, discovering hidden gems and their untold stories.",
+      "category": "Travel"
+    }
+  ]
+}
